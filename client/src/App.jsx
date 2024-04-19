@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import TodoItem from "./TodoItem";
 import "./index.css";
-const API_BASE = "http://localhost:5000/todo";
+const API_BASE = "https://mern-todo-a.onrender.com/todo";
 
 function App() {
   const [items, setItems] = useState([]);

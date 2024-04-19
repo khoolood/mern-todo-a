@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-const API_BASE = "http://localhost:5000/todo";
+const API_BASE = "https://mern-todo-a.onrender.com/todo";
 
 const TodoItem = (props) => {
   const { task, id, setItems, updateTodo } = props;
