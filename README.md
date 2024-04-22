@@ -12,11 +12,11 @@ This MERN (MongoDB, Express.js, React.js, Node.js) stack todo app allows users t
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/mern-todo-app.git
+   git clone https://github.com/khoolood/mern-todo-a.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd mern-todo-app
+   cd MERN-Stack-App-Todos-A
    ```
 3. Install dependencies:
    ```bash
@@ -30,10 +30,10 @@ This MERN (MongoDB, Express.js, React.js, Node.js) stack todo app allows users t
      
 5. Start the development server:
    ```bash
-   npm start or npm run dev
+   npm run dev in for the client side
 &  node server.js for the backend
    ```
-6. Visit `http://localhost:3000` in your browser to use the app.
+6. Visit `http://localhost:5173` in your browser to use the app.
 
 ## Usage
 Add new tasks by clicking on the "Add Task" button. Edit or delete tasks using the respective buttons.
