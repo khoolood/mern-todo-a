@@ -30,12 +30,12 @@ This MERN (MongoDB, Express.js, React.js, Node.js) stack todo app allows users t
      
 5. Start the development server:
    ```bash
-   npm run dev in for the client side
-&  node server.js for the backend
+    npm run dev in for the client side & node server.js for the backend
    ```
-6. Visit `http://localhost:5173` in your browser to use the app.
 
-## Usage
+7. Visit `http://localhost:5173` in your browser to use the app.
+
+## Usage 
 Add new tasks by clicking on the "Add Task" button. Edit or delete tasks using the respective buttons.
 
 ## Contributing
